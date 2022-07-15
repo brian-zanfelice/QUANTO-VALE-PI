@@ -1,2 +1,3 @@
 # QUANTO-VALE-PI
-Acha uma aproximação de pi usando a relação entre a área de um círculo e de um quadrado
+AKA WHAT-IS-THE-VALUE-OF-PI
+Simples code that finds an approximation of the value of pi based on statistics and the areas of a circle and a square. 
